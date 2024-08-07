@@ -1,7 +1,8 @@
 # Love Calculator App
 
 ## 📲 Download the APK:
-[Download Love Calculator APK](#)
+[![Download Love Calculator APK](https://img.icons8.com/clouds/100/000000/download.png)](#)
+
 
 Build a fun and engaging Love Calculator app using Kotlin, MVVM architecture, and the Love Calculator API. Just enter your name and your partner's name to calculate your love percentage! 😍
 
