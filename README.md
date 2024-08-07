@@ -17,4 +17,23 @@ The Love Calculator API is designed for creating entertaining romantic partner c
 
 ---
 
+Example response:
+```json
+  {
+    "fname":"John"
+    "sname":"Alice"
+    "percentage":"46"
+    "result":"Can choose someone better."
+  }
+```
+
+## Important
+
+You must have an api-key for getting response from the API.</br> 
+You can get your API key free from [Rapid API](https://rapidapi.com/) by signing up.</br> 
+"You must have an application on the RapidAPI Developer Dashboard to access an API key. By default, an application will be created when you sign up"</br> 
+Visit [https://docs.rapidapi.com/docs/keys](https://docs.rapidapi.com/docs/keys) for more details
+
+##  Screenshot
+
 Happy calculating! 💕
