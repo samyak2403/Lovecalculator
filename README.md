@@ -1,7 +1,7 @@
 # Love Calculator App
 
 ## 📲 Download the APK:
-<a href="https://github.com/samyak2403/Lovecalculator/blob/master/app/release/app-release.apk">
+<a href="https://github.com/samyak2403/Lovecalculator/raw/master/app/release/app-release.apk">
   <img src="https://github.com/user-attachments/assets/a0c5dcca-d0dc-477b-b864-98c13e12d15d" alt="Download Love Calculator APK" style="width: 300px; height: auto;">
 </a>
 
