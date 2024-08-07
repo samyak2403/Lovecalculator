@@ -1,7 +1,7 @@
 # Love Calculator App
 
 ## 📲 Download the APK:
-[![Download Love Calculator APK](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/512px-Google_Play_Store_badge_EN.svg.png)](#)
+[![Download Love Calculator APK](https://img.icons8.com/clouds/100/000000/download.png)](#)
 
 
 
