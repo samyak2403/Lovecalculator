@@ -6,7 +6,7 @@
 </a>
 
 
-![android-app-button]()
+
 
 
 Build a fun and engaging Love Calculator app using Kotlin, MVVM architecture, and the Love Calculator API. Just enter your name and your partner's name to calculate your love percentage! 😍
